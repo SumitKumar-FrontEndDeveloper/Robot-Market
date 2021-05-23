@@ -1,0 +1,44 @@
+table {
+  margin-bottom: 12px;
+}
+.product-image-cart {
+  width: 30%;
+}
+.totalContainer {
+  display: flex;
+    font-size: 25px;
+    color: #000;
+    flex-direction: row;
+    width: 90%;
+    justify-content: space-between;
+    padding: 5%;
+}
+.tolatLbl {
+  width: 50%;
+}
+
+.tolatLbl {
+  width: 50%;
+}
+.quantityCustomize {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.qtBtn {
+  width: 33%;
+    min-height: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background: #fff;
+    border: 1px solid #ebe0e0;
+    color: #000;
+    box-shadow: none;
+    font-size: 18px;
+}
+
+table tbody tr td:last-child {
+  padding-right: 10px;;
+}
